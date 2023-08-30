@@ -2,7 +2,6 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-
 **✩** Gab Gab, não sei usar o GitHub
 
 ![Twitch](https://www.twitch.tv/cellbit?sr=a)
