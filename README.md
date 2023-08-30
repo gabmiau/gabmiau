@@ -1,4 +1,4 @@
-### g a t o ![cat](https://github.com/gabmiau/gabmiau/assets/142426464/0fafea8c-bf14-4fa9-adb2-5428b5c12235)
+### g a t o 😺 
 
 
 <!--
