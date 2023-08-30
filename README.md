@@ -1,4 +1,5 @@
-### Hi there 👋
+### g a t o ![cat](https://github.com/gabmiau/gabmiau/assets/142426464/0fafea8c-bf14-4fa9-adb2-5428b5c12235)
+
 
 <!--
 **gabmiau/gabmiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
