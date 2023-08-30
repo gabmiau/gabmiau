@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-!https://www.twitch.tv/cellbit?sr=a
+!(https://www.twitch.tv/cellbit?sr=a)
 ![hello-cat-approaching](https://github.com/gabmiau/gabmiau/assets/142426464/38fc3199-8182-455b-8647-33dc30d35b01)
