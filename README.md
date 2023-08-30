@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**✩** Gab Gab, não sei usar o GitHub
+**✩** Gab Gab, não sei usar o **GitHub**
 - 🌱 &nbsp; Paraná ! **O que colocar aqui?**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabmiau&show_icons=true)
