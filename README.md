@@ -6,5 +6,4 @@
 - 🌱 &nbsp; Paraná ! **O que colocar aqui?**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabmiau&show_icons=true)
-![Twitch](https://www.twitch.tv/cellbit?sr=a)
 ![hello-cat-approaching](https://github.com/gabmiau/gabmiau/assets/142426464/38fc3199-8182-455b-8647-33dc30d35b01)
