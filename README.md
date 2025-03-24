@@ -3,7 +3,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 **✩** Gab Gab, não sei usar o **GitHub**
-- 🌱 &nbsp; Paraná ! **O que colocar aqui?**
+- 🍥 &nbsp; **Mydeimos! The Prince of Castrum Kremnos !
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabmiau&show_icons=true)
-![hello-cat-approaching](https://github.com/gabmiau/gabmiau/assets/142426464/38fc3199-8182-455b-8647-33dc30d35b01)
+ ![giphy](https://github.com/user-attachments/assets/46913fac-7a77-40c7-82d0-91ee1f97be4f)
+
